@@ -1,1 +1,1 @@
-# DM222
+# Stock prediction project
